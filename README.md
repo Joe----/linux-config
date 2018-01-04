@@ -2,7 +2,7 @@
 - URL: http://ec2-18-221-198-232.us-east-2.compute.amazonaws.com/
 - Public IP address: 18.221.198.232
 
-## 1. Software Installed
+## Software Installed
 - Python
 - git
 - PostgreSQL
